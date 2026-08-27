@@ -1,1 +1,3 @@
 main function
+
+int main() ()
