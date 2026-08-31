@@ -1,3 +1,3 @@
 main function
 
-int main() ()
+int MainFuction() ()
