@@ -1,4 +1,6 @@
 
+int Test();
+
 int MainFuction()
 
 
