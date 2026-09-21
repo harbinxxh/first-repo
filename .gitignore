@@ -76,3 +76,11 @@ DerivedDataCache/*
 
 #
 main.exe
+
+# Rider / JetBrains IDE
+.idea/
+
+# .NET 构建产物（如果还没有的话）
+bin/
+obj/
+*.user
